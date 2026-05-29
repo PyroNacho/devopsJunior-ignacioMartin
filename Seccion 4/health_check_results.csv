@@ -1,0 +1,4 @@
+timestamp,url,status_code,response_time_ms,estado
+2026-05-29T20:51:36Z,https://httpbin.org/status/200,200,554,UP
+2026-05-29T20:51:37Z,https://httpbin.org/status/500,500,554,DOWN
+2026-05-29T20:51:37Z,https://httpbin.org/delay/10,N/A,N/A,DOWN (Timeout)
